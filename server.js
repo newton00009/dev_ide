@@ -4,7 +4,7 @@ const app = express()
 
 app.get('/',(req,res)=>{
 
-res.send('API IS RUNNIN')
+res.send('API Running')
 
 })
 
